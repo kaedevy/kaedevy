@@ -1,7 +1,7 @@
 <DOCTYPE html>
   <HTML>
     <b>
-      <h1> My Profile Introduction!</h1>
+      <h1> Pam's Personal Profile Page!</h1>
     </b>
     <body>
      <p> </p> Hello! My name is Pamela Vivienne N. Corral. 
